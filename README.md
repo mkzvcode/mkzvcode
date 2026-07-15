@@ -5,7 +5,7 @@
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mkzvcode&color=9333ea&style=flat-square&label=views)
-[![Telegram](https://img.shields.io/badge/Telegram-%40your__username-9333ea?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-%40your__username-9333ea?style=flat-square&logo=telegram&logoColor=white)](https://t.me/makizava)
 
 </div>
 
