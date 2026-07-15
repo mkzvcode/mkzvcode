@@ -11,22 +11,22 @@
 
 <br>
 
-## Обо мне
+## About me
 
-Верстаю интерфейсы и проектирую дизайн — от лендингов под запуск продукта
-до многостраничных сайтов с аккуратной анимацией и продуманным UX.
-Беру проект целиком: от прототипа в Figma до готового кода.
+I build interfaces and design — from landing pages for product launches
+to multi-page sites with smooth animation and thoughtful UX.
+I take on the whole project: from a Figma prototype to production-ready code.
 
--  Frontend-разработка и веб-дизайн на фрилансе
+-  Frontend development and web design, freelance
 -  HTML/CSS/JS, TypeScript, React, Tailwind
--  Портфолио: см. закреплённые репозитории ниже
--  Открыт для новых проектов — писать в Telegram
+-  Portfolio: see pinned repositories below
+-  Open to new projects — message me on Telegram
 
 <br>
 
 <div align="center">
 
-### Инструменты
+### Tools
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,figma,git,nodejs&theme=dark" alt="Skills" />
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Написать-Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mkzvwork)
+[![Telegram](https://img.shields.io/badge/Message%20me-Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mkzvwork)
 
 </div>
