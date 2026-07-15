@@ -57,6 +57,6 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Написать-Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Написать-Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mkzvwork)
 
 </div>
