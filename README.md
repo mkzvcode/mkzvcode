@@ -36,11 +36,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkzvcode&show_icons=true&hide_border=true&bg_color=0A0710&title_color=C084FC&icon_color=9333EA&text_color=F3F0FA&ring_color=9333EA" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkzvcode&layout=compact&hide_border=true&bg_color=0A0710&title_color=C084FC&text_color=F3F0FA" alt="Top languages" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkzvcode&hide_border=true&background=0A0710&ring=9333EA&fire=C084FC&currStreakLabel=C084FC&sideLabels=F3F0FA&currStreakNum=F3F0FA&sideNums=F3F0FA&dates=A89DC2" alt="Streak stats" />
 
 </div>
