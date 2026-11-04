@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=C084FC&center=true&vCenter=true&width=560&lines=Frontend+Developer;Web+Designer;Freelancer+%E2%80%94+MKZV" alt="Typing SVG" />
+<img src="assets/hero.svg" width="100%" alt="mkzv — full-stack developer and web designer" />
 
 <br>
+<br>
 
-![Profile views](https://komarev.com/ghpvc/?username=mkzvcode&color=9333ea&style=flat-square&label=views)
-[![Telegram](https://img.shields.io/badge/Telegram-%40mkzvwork-9333ea?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mkzvwork)
+[![Telegram](https://img.shields.io/badge/Telegram-%40mkzvwork-9333ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mkzvwork)
+[![Profile views](https://komarev.com/ghpvc/?username=mkzvcode&color=160f22&style=for-the-badge&label=views)](https://github.com/mkzvcode)
 
 </div>
 
@@ -13,22 +14,34 @@
 
 ## About me
 
-I build interfaces and design — from landing pages for product launches
-to multi-page sites with smooth animation and thoughtful UX.
-I take on the whole project: from a Figma prototype to production-ready code.
+I'm Maxim, a full-stack developer and web designer. I take on the whole project: from a Figma prototype to production-ready code, with smooth animation and thoughtful UX on the way.
 
--  Frontend development and web design, freelance
--  HTML/CSS/JS, TypeScript, React, Tailwind
--  Portfolio: see pinned repositories below
--  Open to new projects — message me on Telegram
+- **Frontend:** landing pages and multi-page sites with TypeScript, React, Astro and Tailwind
+- **Backend:** web apps and admin panels with Node.js, PHP, Laravel and MySQL
+- **Open to new projects:** message me on [Telegram](https://t.me/mkzvwork)
 
 <br>
 
+## Selected work
+
 <div align="center">
 
-### Tools
+<a href="https://github.com/mkzvcode/mercury-ink"><img src="assets/card-mercury-ink.svg" width="49%" alt="MERCURY INK: tattoo studio landing page" /></a>
+<a href="https://github.com/mkzvcode/artel-group"><img src="assets/card-artel-group.svg" width="49%" alt="ARTEL GROUP: multi-page renovation group site" /></a>
+<a href="https://github.com/mkzvcode/the-last-of-us-afterlight"><img src="assets/card-afterlight.svg" width="49%" alt="AFTERLIGHT: cinematic The Last of Us fan experience" /></a>
+<a href="https://github.com/mkzvcode/remontologiya"><img src="assets/card-remontologiya.svg" width="49%" alt="REMONTOLOGIYA: renovation services web app" /></a>
+<a href="https://github.com/mkzvcode/mkzvos"><img src="assets/card-mkzvos.svg" width="49%" alt="MKZV OS: modular Windows 11 playbook" /></a>
+<a href="https://github.com/mkzvcode/grogu-minecraft-mod"><img src="assets/card-grogu.svg" width="49%" alt="GROGU MOD: Minecraft fan mod" /></a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,figma,git,nodejs&theme=dark" alt="Skills" />
+</div>
+
+<br>
+
+## Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,sass,nodejs,express,php,laravel,mysql,docker,nginx,figma,git&theme=dark&perline=9" alt="HTML, CSS, JavaScript, TypeScript, React, Astro, Tailwind, Sass, Node.js, Express, PHP, Laravel, MySQL, Docker, nginx, Figma, Git" />
 
 </div>
 
@@ -38,20 +51,9 @@ I take on the whole project: from a Figma prototype to production-ready code.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkzvcode&hide_border=true&background=0A0710&ring=9333EA&fire=C084FC&currStreakLabel=C084FC&sideLabels=F3F0FA&currStreakNum=F3F0FA&sideNums=F3F0FA&dates=A89DC2" alt="Streak stats" />
 
-</div>
-
 <br>
-
-<div align="center">
+<br>
 
 <img src="https://raw.githubusercontent.com/mkzvcode/mkzvcode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Message%20me-Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mkzvwork)
 
 </div>

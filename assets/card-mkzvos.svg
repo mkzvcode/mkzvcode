@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="186" viewBox="0 0 560 186" role="img" aria-label="MKZV OS">
+  <title>MKZV OS</title>
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#160F22"/><stop offset="1" stop-color="#0A0710"/></linearGradient>
+    <linearGradient id="e" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3F0FA" stop-opacity=".6"/><stop offset=".4" stop-color="#9333EA" stop-opacity=".55"/><stop offset="1" stop-color="#2D1B4E"/></linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#A89DC2"/></linearGradient>
+    <style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}</style>
+  </defs>
+  <rect x="1" y="1" width="558" height="184" rx="16" fill="url(#b)" stroke="url(#e)" stroke-width="1.5"/>
+  <text x="28" y="50" fill="url(#t)" font-size="25" font-weight="700" letter-spacing="1.5">MKZV OS</text>
+  <path d="M526 34l6 6-6 6M512 40h19" fill="none" stroke="#C084FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="28" y="88" fill="#D9D3E8" font-size="16">Modular playbook for Windows 11 23H2</text>
+  <text x="28" y="112" fill="#D9D3E8" font-size="16">and PUBG.</text>
+  <rect x="28" y="138" width="100" height="26" rx="13" fill="#2D1B4E"/><text x="78" y="156" text-anchor="middle" fill="#C084FC" font-size="13" font-weight="600">PowerShell</text>
+</svg>

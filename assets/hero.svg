@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="mkzv — full-stack developer and web designer">
+  <title>mkzv — full-stack developer and web designer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0710"/>
+      <stop offset="1" stop-color="#160F22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#9333EA" stop-opacity=".55"/>
+      <stop offset=".6" stop-color="#6D28D9" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="chrome" x1="0" y1="110" x2="0" y2="296" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".2" stop-color="#C9C2DC"/>
+      <stop offset=".44" stop-color="#4A4063"/>
+      <stop offset=".52" stop-color="#150E22"/>
+      <stop offset=".56" stop-color="#E9E4F5"/>
+      <stop offset=".78" stop-color="#6F6289"/>
+      <stop offset="1" stop-color="#F3F0FA"/>
+    </linearGradient>
+    <linearGradient id="band" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="inLetters" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="460">
+      <use xlink:href="#letters" href="#letters" stroke="#FFFFFF"/>
+    </mask>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#C084FC" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="liquid" x="-10%" y="-20%" width="120%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="height"/>
+      <feSpecularLighting in="height" surfaceScale="9" specularConstant=".62" specularExponent="42" lighting-color="#FFFFFF" result="spec">
+        <feDistantLight azimuth="235" elevation="52"/>
+      </feSpecularLighting>
+      <feComposite in="spec" in2="SourceAlpha" operator="in" result="specIn"/>
+      <feMerge>
+        <feMergeNode in="SourceGraphic"/>
+        <feMergeNode in="specIn"/>
+      </feMerge>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <g id="letters" transform="translate(-18 0)" fill="none" stroke-width="46" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M315 270V188Q315 150 350 150T385 188V270M385 188Q385 150 420 150T455 188V270"/>
+      <path d="M525 90V270M525 214L600 150M545 198L605 270"/>
+      <path d="M668 155H758L668 265H763"/>
+      <path d="M821 155L871 265L921 155"/>
+    </g>
+    <g id="stems" transform="translate(-18 0)" fill="url(#chrome)">
+      <path d="M302 280C303 300 310 304 310 318A5 5 0 0 0 320 318C320 304 327 300 328 280Z"/>
+      <path d="M442 280C444 306 450 312 450 334A5 5 0 0 0 460 334C460 312 466 306 468 280Z"/>
+      <path d="M512 280C514 298 520 304 520 322A5 5 0 0 0 530 322C530 304 536 298 538 280Z"/>
+      <path d="M750 272C752 288 758 292 758 304A5 5 0 0 0 768 304C768 292 774 288 776 272Z"/>
+      <path d="M858 270C860 288 866 294 866 312A5 5 0 0 0 876 312C876 294 882 288 884 270Z"/>
+    </g>
+  </defs>
+  <style>
+    .drop { fill: #E4DEF2; opacity: 0; animation: fall 4.2s cubic-bezier(.55,0,.9,.45) infinite; }
+    .d2 { animation-delay: 1.1s; } .d3 { animation-delay: 2.3s; } .d4 { animation-delay: 3.2s; }
+    .pulse { animation: pulse 6s ease-in-out infinite; transform-origin: 600px 200px; }
+    .sheen { animation: sheen 5.5s ease-in-out infinite; transform: translateX(-420px); }
+    @keyframes fall {
+      0% { transform: translateY(0); opacity: 0; }
+      12% { opacity: 1; }
+      55% { opacity: 1; }
+      70%, 100% { transform: translateY(95px); opacity: 0; }
+    }
+    @keyframes pulse { 0%, 100% { opacity: .7; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+    @keyframes sheen { 0%, 15% { transform: translateX(-420px); } 65%, 100% { transform: translateX(760px); } }
+    @media (prefers-reduced-motion: reduce) { .drop, .pulse, .sheen { animation: none; } .drop { opacity: 1; } }
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+
+  <rect width="1200" height="460" rx="20" fill="url(#bg)"/>
+  <ellipse class="pulse" cx="600" cy="200" rx="470" ry="210" fill="url(#glow)"/>
+
+  <use xlink:href="#letters" href="#letters" stroke="#9333EA" opacity=".45" filter="url(#soft)"/>
+
+  <use xlink:href="#letters" href="#letters" stroke="#2D1B4E" stroke-width="52"/>
+
+  <g filter="url(#liquid)">
+    <use xlink:href="#stems" href="#stems"/>
+    <use xlink:href="#letters" href="#letters" stroke="url(#chrome)"/>
+  </g>
+
+  <g mask="url(#inLetters)">
+    <rect class="sheen" x="150" y="60" width="150" height="250" fill="url(#band)"/>
+  </g>
+
+  <circle class="drop" cx="297" cy="326" r="5"/>
+  <circle class="drop d2" cx="507" cy="330" r="5"/>
+  <circle class="drop d3" cx="853" cy="320" r="5"/>
+  <circle class="drop d4" cx="437" cy="342" r="4"/>
+
+  <rect x="400" y="378" width="400" height="1" fill="url(#line)"/>
+  <text x="600" y="412" text-anchor="middle" fill="#F3F0FA" font-size="21" font-weight="600" letter-spacing="5">FULL-STACK DEVELOPER · WEB DESIGNER</text>
+  <text x="600" y="438" text-anchor="middle" fill="#A89DC2" font-size="14" letter-spacing="3">CHELYABINSK · FROM FIGMA TO PRODUCTION</text>
+</svg>
